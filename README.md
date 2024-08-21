@@ -1,3 +1,5 @@
+- Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMGU5NDFkNTAtZWFlYi00YWUzLTlmZjItNWNhNGMyYzQ4NGEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 🚀 Excited Update 🚀
 Thrilled to share my video presentation on the "Business Insights 360" project! from the Codebasics Data Analyst Bootcamp. This journey explored finance, sales, supply chain, and marketing to gain a complete view of AtliQ Hardware's performance. 📊
 
