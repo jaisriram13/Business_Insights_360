@@ -1,3 +1,5 @@
+- New Designed Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzcxYjA5NDktYzgzNC00YTM0LWI3MTYtY2E4MzFlMDJjMmNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+  
 - Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMGU5NDFkNTAtZWFlYi00YWUzLTlmZjItNWNhNGMyYzQ4NGEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 🚀 Excited Update 🚀
